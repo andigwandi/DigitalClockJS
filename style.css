@@ -1,0 +1,21 @@
+#clock {
+    font-size: 175px;
+    width: 900px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+  div {
+    width: 900px;
+    height: 200px;
+    background-color: red;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+} 
